@@ -1,0 +1,5 @@
+*.deb
+linux-4.19.67/
+linux_4.19.67-2+deb10u2.debian.tar.xz
+linux_4.19.67-2+deb10u2.dsc
+linux_4.19.67.orig.tar.xz
